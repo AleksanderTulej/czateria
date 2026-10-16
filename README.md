@@ -3,7 +3,7 @@
 Które z następujących zadań wymagają w Twojej opinii inteligencji od człowieka:
 -  wypełnianie deklaracji PIT,
 -  streszczanie tekstu,
--tłumaczenie tekstu,
+- tłumaczenie tekstu,
 - klasyfikacja tekstu do kategorii tematycznych,
 - odpowiadanie na proste pytania zadawane w języku naturalnym (np. polskim),
 - układanie rozkładu jazdy transportu miejskiego,
@@ -58,17 +58,17 @@ widzieć zachowania dwóch rozmawiających ze sobą chatbotów (przepisując ich
 wzajemne odpowiedzi).
 5. Zdenerwuj bota 😊😊
 Lista startowa chatbotów:
-• cleverbot.com
-• www.chatbot4u.com
-• www.chatbot.pl
-• douweosinga.com
-• apps.facebook.com/luxoft_avatar
-• chatterboty.pl
-• ikea.com.pl (zapytaj Anię)
-• www.chatbots.org
-• www.snikers.pl
-• www.personalityforge.com (hall of fame)
-• www.ecreation.pl
-• wellbot.tk
-• www.inguaris.pl
-• tremo.algit.pl
+cleverbot.com
+- www.chatbot4u.com
+- www.chatbot.pl
+- douweosinga.com
+- apps.facebook.com/luxoft_avatar
+- chatterboty.pl
+- ikea.com.pl (zapytaj Anię)
+- www.chatbots.org
+- www.snikers.pl
+- www.personalityforge.com (hall of fame)
+- www.ecreation.pl
+- wellbot.tk
+- www.inguaris.pl
+- tremo.algit.pl
