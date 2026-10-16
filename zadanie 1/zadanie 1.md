@@ -17,4 +17,4 @@ Które z następujących zadań wymagają w Twojej opinii inteligencji od człow
 - rozwiązywanie układów równań - nie jest potrzebna ludzka inteligencja ponieważ AI znacznie lepiej radzi sobie z zadaniami matematycznymi od człowieka i co najważniejsze nie popełnia błędów
 - symboliczne obliczanie pochodnych funkcji - nie jest potrzebna ludzka inteligencja ponieważ AI znacznie lepiej radzi sobie z zadaniami matematycznymi od człowieka i co najważniejsze nie popełnia błędów
 - symboliczne całkowanie funkcji - nie jest potrzebna ludzka inteligencja ponieważ AI znacznie lepiej radzi sobie z zadaniami matematycznymi od człowieka i co najważniejsze nie popełnia błędów
-- kierowanie samochodem - moim zdaniem w tym przypadku ludzka inteligencja jest zdecdydowanie potrzebna, ponieważ nie możemy oddawać odpowiedzialności za życie innych ludzi maszynom.
+- kierowanie samochodem - moim zdaniem w tym przypadku ludzka inteligencja jest zdecdydowanie potrzebna, ponieważ nie możemy oddawać odpowiedzialności za życie innych ludzi maszynom i nie ma potem kogo oskarżyć (ewentualnie) w sądzie.
