@@ -58,7 +58,7 @@ widzieć zachowania dwóch rozmawiających ze sobą chatbotów (przepisując ich
 wzajemne odpowiedzi).
 5. Zdenerwuj bota 😊😊
 Lista startowa chatbotów:
-cleverbot.com
+- cleverbot.com
 - www.chatbot4u.com
 - www.chatbot.pl
 - douweosinga.com
